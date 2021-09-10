@@ -3,7 +3,7 @@
 		{
 			"name": "shark",
 			"id": "17d60f34-e8e8-4f30-9809-3c00751d3ba4",
-			"uniqueId": 339,
+			"uniqueId": 9,
 			"type": "Mesh",
 			"position": [
 				0,
@@ -19,7 +19,7 @@
 			"scaling": [
 				1,
 				1,
-				1
+				-1
 			],
 			"pivotMatrix": {
 				"0": 1,
@@ -76,7 +76,7 @@
 				},
 				"isPickable": true,
 				"script": {
-					"name": "None"
+					"name": "src/scenes/scene/Pingouin.ts"
 				},
 				"renderingGroupId": 0,
 				"doNotExport": false

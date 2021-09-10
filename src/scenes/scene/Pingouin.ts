@@ -47,7 +47,7 @@ export default class MyScript extends Mesh {
      * Called on the scene starts.
      */
     public onStart(): void {
-        this.rotate(new Vector3(0, 1, 0), Math.PI);
+        //this.rotate(new Vector3(0, 1, 0), Math.PI);
     }
 
     /**

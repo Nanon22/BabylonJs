@@ -61,7 +61,7 @@ var MyScript = /** @class */ (function (_super) {
      */
     MyScript.prototype.onUpdate = function () {
         this.myTime += this.getEngine().getDeltaTime() * 0.001;
-        this.position.y = Math.cos(this.myTime) - 3.75;
+        this.position.y = Math.cos(this.myTime) - 3.70;
     };
     return MyScript;
 }(core_1.Mesh));

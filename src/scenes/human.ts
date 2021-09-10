@@ -49,7 +49,7 @@ export default class MyScript extends Mesh {
      */
     public onUpdate(): void {
         this.myTime += this.getEngine().getDeltaTime() * 0.001;
-        this.position.y = Math.cos(this.myTime) - 3.75;
+        this.position.y = Math.cos(this.myTime) - 3.70;
         
     }
 

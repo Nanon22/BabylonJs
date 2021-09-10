@@ -61,7 +61,7 @@ var MyScript = /** @class */ (function (_super) {
      * Called on the scene starts.
      */
     MyScript.prototype.onStart = function () {
-        this.rotate(new core_1.Vector3(0, 1, 0), Math.PI);
+        //this.rotate(new Vector3(0, 1, 0), Math.PI);
     };
     /**
      * Called each frame.
@@ -74,7 +74,7 @@ var MyScript = /** @class */ (function (_super) {
         if (this.sign != saveSign) {
             this.rotate(new core_1.Vector3(0, 1, 0), Math.PI);
         }
-        this.position.x = cos;
+        this.position.x += cos * 0.2;
     };
     __decorate([
         decorators_1.fromScene('camera')

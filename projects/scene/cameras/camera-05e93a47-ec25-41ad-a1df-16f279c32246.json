@@ -20,7 +20,7 @@
 	"speed": 0.1,
 	"position": [
 		0,
-		20,
+		10,
 		-30
 	],
 	"upVector": [
@@ -30,7 +30,7 @@
 	],
 	"fov": 0.8,
 	"minZ": 1,
-	"maxZ": 33750,
+	"maxZ": 50625,
 	"inertia": 0.9,
 	"mode": 0,
 	"layerMask": 268435455,
