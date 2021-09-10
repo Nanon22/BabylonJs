@@ -1,0 +1,18 @@
+{
+	"name": "files/Free Sound effect of male man screaming in pain and fear.mp3",
+	"url": "Free Sound effect of male man screaming in pain and fear.mp3",
+	"autoplay": true,
+	"loop": true,
+	"volume": 1,
+	"spatialSound": false,
+	"maxDistance": 100,
+	"rolloffFactor": 1,
+	"refDistance": 1,
+	"distanceModel": "linear",
+	"playbackRate": 1,
+	"panningModel": "equalpower",
+	"soundTrackId": -1,
+	"metadata": {
+		"id": "464bf6c7-635b-44b8-94d4-7b9571b0517d"
+	}
+}

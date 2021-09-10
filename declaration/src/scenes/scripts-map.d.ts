@@ -4,6 +4,7 @@ import { ScriptMap } from "./tools";
  */
 export interface ISceneScriptMap extends ScriptMap {
     "src/scenes/human.ts": any;
+    "src/scenes/plane.ts": any;
     "src/scenes/scene/Pingouin.ts": any;
 }
 /**

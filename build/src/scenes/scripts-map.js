@@ -5,6 +5,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
  */
 exports.scriptsMap = {
     "src/scenes/human.ts": require("./human"),
+    "src/scenes/plane.ts": require("./plane"),
     "src/scenes/scene/Pingouin.ts": require("./scene/Pingouin"),
 };
 //# sourceMappingURL=scripts-map.js.map
