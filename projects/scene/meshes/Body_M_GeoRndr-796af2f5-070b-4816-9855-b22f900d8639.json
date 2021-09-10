@@ -1,0 +1,151 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Body_M_GeoRndr",
+			"id": "796af2f5-070b-4816-9855-b22f900d8639",
+			"uniqueId": 11,
+			"type": "Mesh",
+			"position": [
+				4.043947042617676,
+				0.05000000074505806,
+				15.031345249991409
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": true,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"parentId": "5d30de03-1e11-44c2-a912-0a252c20fb2f",
+			"isUnIndexed": false,
+			"geometryId": "1bc24484-2b32-44bd-8875-f2d41a987e80",
+			"subMeshes": null,
+			"materialId": "4cf5391c-9d81-4652-9d73-440ca0b6e20f",
+			"metadata": {
+				"basePoseMatrix": {
+					"0": 1,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 1,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 1,
+					"11": 0,
+					"12": 0,
+					"13": 0,
+					"14": 0,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "Body_M_GeoRndr",
+					"name": "Body_M_GeoRndr",
+					"sceneFileName": "standard-male-figure.babylon"
+				},
+				"isPickable": true,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0,
+				"doNotExport": false
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"overlayAlpha": 0.5,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/1bc24484-2b32-44bd-8875-f2d41a987e80.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				7.982100009918213,
+				18.408700942993164,
+				2.224100112915039
+			],
+			"boundingBoxMinimum": [
+				-7.982100009918213,
+				-0.07689999788999557,
+				-1.156000018119812
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 42573,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 42573,
+					"stride": 3,
+					"offset": 170292,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 28382,
+					"stride": 2,
+					"offset": 340584,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 61872,
+					"stride": 1,
+					"offset": 454112,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 701600,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

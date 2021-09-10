@@ -1,0 +1,61 @@
+{
+	"tags": null,
+	"position": [
+		78.13582611083984,
+		-4.547473508864641e-13,
+		4.263256414560601e-14
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		3.4701488147033654e-18,
+		-1.735074614146836e-18,
+		-0.020115071907639503,
+		0.9997976422309875
+	],
+	"scaling": [
+		0.9999999403953552,
+		0.9999999403953552,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "BackFinB3.25",
+	"id": "de6d0c20-e6ef-40f9-bc8f-54d2c2164b97",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/28"
+			],
+			"editorDone": true
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "2fe59528-eaa0-40f0-82a5-7d3b042dc743",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

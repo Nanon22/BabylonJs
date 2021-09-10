@@ -1,0 +1,429 @@
+{
+	"tags": null,
+	"directIntensity": 1,
+	"emissiveIntensity": 1,
+	"environmentIntensity": 1,
+	"specularIntensity": 1,
+	"disableBumpMap": false,
+	"albedoTexture": {
+		"tags": null,
+		"url": "files/mtl_shark41 (Diffuse).png",
+		"uOffset": 0,
+		"vOffset": 0,
+		"uScale": 1,
+		"vScale": 1,
+		"uAng": 0,
+		"vAng": 0,
+		"wAng": 0,
+		"uRotationCenter": 0.5,
+		"vRotationCenter": 0.5,
+		"wRotationCenter": 0.5,
+		"homogeneousRotationInUVTransform": false,
+		"isBlocking": true,
+		"name": "files/mtl_shark41 (Diffuse).png",
+		"metadata": {
+			"gltf": {
+				"pointers": [
+					"/materials/0/extensions/KHR_materials_pbrSpecularGlossiness/diffuseTexture"
+				]
+			},
+			"editorName": "mtl_shark41 (Diffuse).png",
+			"editorId": "9b6c5c1c-0ba0-4967-9f36-ef756e4a5069",
+			"ktx2CompressedTextures": {
+				"isUsingCompressedTexture": false
+			}
+		},
+		"hasAlpha": false,
+		"getAlphaFromRGB": false,
+		"level": 1,
+		"coordinatesIndex": 0,
+		"coordinatesMode": 0,
+		"wrapU": 1,
+		"wrapV": 1,
+		"wrapR": 1,
+		"anisotropicFilteringLevel": 4,
+		"isCube": false,
+		"is3D": false,
+		"is2DArray": false,
+		"gammaSpace": true,
+		"invertZ": false,
+		"lodLevelInAlpha": false,
+		"lodGenerationOffset": 0,
+		"lodGenerationScale": 0,
+		"linearSpecularLOD": false,
+		"isRenderTarget": false,
+		"animations": [],
+		"invertY": false,
+		"samplingMode": 11
+	},
+	"ambientTexture": {
+		"tags": null,
+		"url": "files/mtl_shark41 (Occlusion).png",
+		"uOffset": 0,
+		"vOffset": 0,
+		"uScale": 1,
+		"vScale": 1,
+		"uAng": 0,
+		"vAng": 0,
+		"wAng": 0,
+		"uRotationCenter": 0.5,
+		"vRotationCenter": 0.5,
+		"wRotationCenter": 0.5,
+		"homogeneousRotationInUVTransform": false,
+		"isBlocking": true,
+		"name": "files/mtl_shark41 (Occlusion).png",
+		"metadata": {
+			"gltf": {
+				"pointers": [
+					"/materials/0/occlusionTexture"
+				]
+			},
+			"editorName": "mtl_shark41 (Occlusion).png",
+			"editorId": "342a6352-a3d0-40b9-b35f-64256bee282e",
+			"ktx2CompressedTextures": {
+				"isUsingCompressedTexture": false
+			}
+		},
+		"hasAlpha": false,
+		"getAlphaFromRGB": false,
+		"level": 1,
+		"coordinatesIndex": 0,
+		"coordinatesMode": 0,
+		"wrapU": 1,
+		"wrapV": 1,
+		"wrapR": 1,
+		"anisotropicFilteringLevel": 4,
+		"isCube": false,
+		"is3D": false,
+		"is2DArray": false,
+		"gammaSpace": true,
+		"invertZ": false,
+		"lodLevelInAlpha": false,
+		"lodGenerationOffset": 0,
+		"lodGenerationScale": 0,
+		"linearSpecularLOD": false,
+		"isRenderTarget": false,
+		"animations": [],
+		"invertY": false,
+		"samplingMode": 11
+	},
+	"ambientTextureStrength": 1,
+	"ambientTextureImpactOnAnalyticalLights": 0,
+	"reflectivityTexture": {
+		"tags": null,
+		"url": "files/mtl_shark41 (Specular Glossiness).png",
+		"uOffset": 0,
+		"vOffset": 0,
+		"uScale": 1,
+		"vScale": 1,
+		"uAng": 0,
+		"vAng": 0,
+		"wAng": 0,
+		"uRotationCenter": 0.5,
+		"vRotationCenter": 0.5,
+		"wRotationCenter": 0.5,
+		"homogeneousRotationInUVTransform": false,
+		"isBlocking": true,
+		"name": "files/mtl_shark41 (Specular Glossiness).png",
+		"metadata": {
+			"gltf": {
+				"pointers": [
+					"/materials/0/extensions/KHR_materials_pbrSpecularGlossiness/specularGlossinessTexture"
+				]
+			},
+			"editorName": "mtl_shark41 (Specular Glossiness).png",
+			"editorId": "c3e7eb30-a1fb-4e3c-932e-186739ac9be9",
+			"ktx2CompressedTextures": {
+				"isUsingCompressedTexture": false
+			}
+		},
+		"hasAlpha": true,
+		"getAlphaFromRGB": false,
+		"level": 1,
+		"coordinatesIndex": 0,
+		"coordinatesMode": 0,
+		"wrapU": 1,
+		"wrapV": 1,
+		"wrapR": 1,
+		"anisotropicFilteringLevel": 4,
+		"isCube": false,
+		"is3D": false,
+		"is2DArray": false,
+		"gammaSpace": true,
+		"invertZ": false,
+		"lodLevelInAlpha": false,
+		"lodGenerationOffset": 0,
+		"lodGenerationScale": 0,
+		"linearSpecularLOD": false,
+		"isRenderTarget": false,
+		"animations": [],
+		"invertY": false,
+		"samplingMode": 11
+	},
+	"metallicF0Factor": 1,
+	"metallicReflectanceColor": [
+		1,
+		1,
+		1
+	],
+	"bumpTexture": {
+		"tags": null,
+		"url": "files/mtl_shark41 (Normal).png",
+		"uOffset": 0,
+		"vOffset": 0,
+		"uScale": 1,
+		"vScale": 1,
+		"uAng": 0,
+		"vAng": 0,
+		"wAng": 0,
+		"uRotationCenter": 0.5,
+		"vRotationCenter": 0.5,
+		"wRotationCenter": 0.5,
+		"homogeneousRotationInUVTransform": false,
+		"isBlocking": true,
+		"name": "files/mtl_shark41 (Normal).png",
+		"metadata": {
+			"gltf": {
+				"pointers": [
+					"/materials/0/normalTexture"
+				]
+			},
+			"editorName": "mtl_shark41 (Normal).png",
+			"editorId": "c8d79030-13bf-421d-b826-5951ab1b7200",
+			"ktx2CompressedTextures": {
+				"isUsingCompressedTexture": false
+			}
+		},
+		"hasAlpha": false,
+		"getAlphaFromRGB": false,
+		"level": 1,
+		"coordinatesIndex": 0,
+		"coordinatesMode": 0,
+		"wrapU": 1,
+		"wrapV": 1,
+		"wrapR": 1,
+		"anisotropicFilteringLevel": 4,
+		"isCube": false,
+		"is3D": false,
+		"is2DArray": false,
+		"gammaSpace": true,
+		"invertZ": false,
+		"lodLevelInAlpha": false,
+		"lodGenerationOffset": 0,
+		"lodGenerationScale": 0,
+		"linearSpecularLOD": false,
+		"isRenderTarget": false,
+		"animations": [],
+		"invertY": false,
+		"samplingMode": 11
+	},
+	"ambient": [
+		0,
+		0,
+		0
+	],
+	"albedo": [
+		1,
+		1,
+		1
+	],
+	"reflectivity": [
+		1,
+		1,
+		1
+	],
+	"reflection": [
+		1,
+		1,
+		1
+	],
+	"emissive": [
+		0,
+		0,
+		0
+	],
+	"microSurface": 1,
+	"useLightmapAsShadowmap": false,
+	"useAlphaFromAlbedoTexture": false,
+	"forceAlphaTest": false,
+	"alphaCutOff": 0.4,
+	"useSpecularOverAlpha": true,
+	"useMicroSurfaceFromReflectivityMapAlpha": true,
+	"useRoughnessFromMetallicTextureAlpha": true,
+	"useRoughnessFromMetallicTextureGreen": false,
+	"useMetallnessFromMetallicTextureBlue": false,
+	"useAmbientOcclusionFromMetallicTextureRed": false,
+	"useAmbientInGrayScale": true,
+	"useAutoMicroSurfaceFromReflectivityMap": false,
+	"usePhysicalLightFalloff": true,
+	"useGLTFLightFalloff": false,
+	"useRadianceOverAlpha": true,
+	"useObjectSpaceNormalMap": false,
+	"useParallax": false,
+	"useParallaxOcclusion": false,
+	"parallaxScaleBias": 0.05,
+	"disableLighting": false,
+	"forceIrradianceInFragment": true,
+	"maxSimultaneousLights": 4,
+	"invertNormalMapX": true,
+	"invertNormalMapY": false,
+	"twoSidedLighting": true,
+	"useAlphaFresnel": false,
+	"useLinearAlphaFresnel": false,
+	"forceNormalForward": false,
+	"enableSpecularAntiAliasing": true,
+	"useHorizonOcclusion": true,
+	"useRadianceOcclusion": true,
+	"unlit": false,
+	"_imageProcessingConfiguration": {
+		"tags": null,
+		"colorCurves": {
+			"tags": null,
+			"_globalHue": 200,
+			"_globalDensity": 80,
+			"_globalSaturation": 80,
+			"_globalExposure": 0,
+			"_highlightsHue": 20,
+			"_highlightsDensity": 80,
+			"_highlightsSaturation": -80,
+			"_highlightsExposure": 0,
+			"_midtonesHue": 30,
+			"_midtonesDensity": 0,
+			"_midtonesSaturation": 0,
+			"_midtonesExposure": 0
+		},
+		"_colorCurvesEnabled": false,
+		"_colorGradingEnabled": false,
+		"_colorGradingWithGreenDepth": true,
+		"_colorGradingBGR": true,
+		"_exposure": 1,
+		"_toneMappingEnabled": false,
+		"_toneMappingType": 0,
+		"_contrast": 1,
+		"vignetteStretch": 0,
+		"vignetteCentreX": 0,
+		"vignetteCentreY": 0,
+		"vignetteWeight": 1.5,
+		"vignetteColor": [
+			0,
+			0,
+			0,
+			0
+		],
+		"vignetteCameraFov": 0.5,
+		"_vignetteBlendMode": 0,
+		"_vignetteEnabled": false,
+		"_applyByPostProcess": true,
+		"_isEnabled": true
+	},
+	"useLogarithmicDepth": false,
+	"id": "ab78b7f4-48d2-4392-b332-f248b89a5c02",
+	"name": "mtl_shark41",
+	"checkReadyOnEveryCall": false,
+	"checkReadyOnlyOnce": false,
+	"state": "",
+	"alpha": 1,
+	"backFaceCulling": false,
+	"sideOrientation": 1,
+	"alphaMode": 2,
+	"_needDepthPrePass": false,
+	"disableDepthWrite": false,
+	"disableColorWrite": false,
+	"forceDepthWrite": false,
+	"depthFunction": 0,
+	"separateCullingPass": false,
+	"fogEnabled": true,
+	"pointSize": 1,
+	"zOffset": 0,
+	"pointsCloud": false,
+	"fillMode": 0,
+	"transparencyMode": 0,
+	"customType": "BABYLON.PBRMaterial",
+	"clearCoat": {
+		"tags": null,
+		"isEnabled": false,
+		"intensity": 1,
+		"roughness": 0,
+		"indexOfRefraction": 1.5,
+		"useRoughnessFromMainTexture": true,
+		"remapF0OnInterfaceChange": true,
+		"isTintEnabled": false,
+		"tintColor": [
+			1,
+			1,
+			1
+		],
+		"tintColorAtDistance": 1,
+		"tintThickness": 1
+	},
+	"anisotropy": {
+		"tags": null,
+		"isEnabled": false,
+		"intensity": 1,
+		"direction": [
+			1,
+			0
+		]
+	},
+	"brdf": {
+		"tags": null,
+		"useEnergyConservation": true,
+		"useSmithVisibilityHeightCorrelated": true,
+		"useSphericalHarmonics": true,
+		"useSpecularGlossinessInputEnergyConservation": true
+	},
+	"sheen": {
+		"tags": null,
+		"isEnabled": false,
+		"linkSheenWithAlbedo": false,
+		"intensity": 1,
+		"color": [
+			1,
+			1,
+			1
+		],
+		"useRoughnessFromMainTexture": true,
+		"albedoScaling": false
+	},
+	"subSurface": {
+		"tags": null,
+		"isRefractionEnabled": false,
+		"isTranslucencyEnabled": false,
+		"isScatteringEnabled": false,
+		"_scatteringDiffusionProfileIndex": 0,
+		"refractionIntensity": 1,
+		"translucencyIntensity": 1,
+		"useAlbedoToTintRefraction": false,
+		"indexOfRefraction": 1.5,
+		"_volumeIndexOfRefraction": -1,
+		"invertRefractionY": false,
+		"linkRefractionWithTransparency": false,
+		"minimumThickness": 0,
+		"maximumThickness": 1,
+		"tintColor": [
+			1,
+			1,
+			1
+		],
+		"tintColorAtDistance": 1,
+		"diffusionDistance": [
+			1,
+			1,
+			1
+		],
+		"useMaskFromThicknessTexture": false,
+		"useMaskFromThicknessTextureGltf": false
+	},
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/materials/0"
+			]
+		},
+		"originalSourceFile": {
+			"id": "mtl_shark41",
+			"name": "mtl_shark41",
+			"sceneFileName": "shark.glb"
+		}
+	}
+}

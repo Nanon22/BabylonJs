@@ -1,0 +1,61 @@
+{
+	"tags": null,
+	"position": [
+		136.8788299560547,
+		167.31756591796875,
+		-0.0000025091171664826106
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		2.2317747649935882e-8,
+		2.993030179254674e-8,
+		0.5622486472129822,
+		0.826968252658844
+	],
+	"scaling": [
+		1,
+		1,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "DorsalFin1.26",
+	"id": "7d9a05a9-a3f9-4bd3-9b5a-6e71b4f1c220",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/29"
+			],
+			"editorDone": true
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "cd1e4a22-07b9-4101-8d96-7d04a83a6ba9",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

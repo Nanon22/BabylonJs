@@ -1,0 +1,61 @@
+{
+	"tags": null,
+	"position": [
+		3.410605131648481e-13,
+		5.684341886080802e-14,
+		-0.0000057220458984375
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"rotationQuaternion": [
+		0.03374039754271507,
+		0.7333345413208008,
+		0.03641313686966896,
+		0.6780532002449036
+	],
+	"scaling": [
+		1,
+		1,
+		0.9999999403953552
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "Spine1.13",
+	"id": "2ed3c522-7fec-4567-9723-ca4779ca0b25",
+	"state": "",
+	"metadata": {
+		"gltf": {
+			"pointers": [
+				"/nodes/6"
+			],
+			"editorDone": true
+		}
+	},
+	"type": "TransformNode",
+	"parentId": "52821900-3960-4163-9961-21b605710bd3",
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

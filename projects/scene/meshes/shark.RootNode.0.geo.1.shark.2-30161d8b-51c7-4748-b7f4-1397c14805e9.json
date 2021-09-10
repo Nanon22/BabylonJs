@@ -1,0 +1,175 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "shark.RootNode.0.geo.1.shark.2",
+			"id": "30161d8b-51c7-4748-b7f4-1397c14805e9",
+			"uniqueId": 374,
+			"type": "Mesh",
+			"position": [
+				0,
+				-3,
+				14
+			],
+			"rotation": [
+				0,
+				0,
+				0
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"pivotMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": false,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": 0,
+			"parentId": "518992d4-5bce-4f97-b22e-881139225cfd",
+			"isUnIndexed": false,
+			"geometryId": "cb85ece2-e733-4add-8410-1aa91ccc4118",
+			"subMeshes": null,
+			"materialId": "ab78b7f4-48d2-4392-b332-f248b89a5c02",
+			"metadata": {
+				"gltf": {
+					"pointers": [
+						"/meshes/0/primitives/0",
+						"/nodes/3"
+					]
+				},
+				"basePoseMatrix": {
+					"0": -100,
+					"1": 0,
+					"2": 0,
+					"3": 0,
+					"4": 0,
+					"5": 100,
+					"6": 0,
+					"7": 0,
+					"8": 0,
+					"9": 0,
+					"10": 100,
+					"11": 0,
+					"12": 0,
+					"13": 0,
+					"14": 0,
+					"15": 1
+				},
+				"originalSourceFile": {
+					"id": "shark.2",
+					"name": "shark.2",
+					"sceneFileName": "shark.glb"
+				},
+				"isPickable": true,
+				"script": {
+					"name": "None"
+				},
+				"renderingGroupId": 0,
+				"doNotExport": false
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.5,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"delayLoadingFile": "geometries/cb85ece2-e733-4add-8410-1aa91ccc4118.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				341.6070556640625,
+				537.656005859375,
+				780.5001220703125
+			],
+			"boundingBoxMinimum": [
+				-341.6070556640625,
+				-63.7843017578125,
+				-911.2364501953125
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 82320,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 82320,
+					"stride": 3,
+					"offset": 329280,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 54880,
+					"stride": 2,
+					"offset": 658560,
+					"dataType": 1
+				},
+				"matricesIndicesAttrDesc": {
+					"count": 27440,
+					"stride": 1,
+					"offset": 878080,
+					"dataType": 0
+				},
+				"matricesWeightsAttrDesc": {
+					"count": 109760,
+					"stride": 2,
+					"offset": 987840,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 153597,
+					"stride": 1,
+					"offset": 1426880,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 2041268,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"matricesIndices": null,
+			"hasMatricesIndices": true,
+			"matricesWeights": null,
+			"hasMatricesWeights": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

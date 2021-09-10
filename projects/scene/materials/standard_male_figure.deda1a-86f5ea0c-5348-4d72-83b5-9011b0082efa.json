@@ -1,0 +1,72 @@
+{
+	"tags": null,
+	"ambient": [
+		0.8706,
+		0.8549,
+		0.102
+	],
+	"diffuse": [
+		0.8706,
+		0.8549,
+		0.102
+	],
+	"specular": [
+		0.01,
+		0.01,
+		0.01
+	],
+	"emissive": [
+		0,
+		0,
+		0
+	],
+	"specularPower": 50,
+	"useAlphaFromDiffuseTexture": false,
+	"useEmissiveAsIllumination": false,
+	"linkEmissiveWithDiffuse": false,
+	"useSpecularOverAlpha": false,
+	"useReflectionOverAlpha": false,
+	"disableLighting": false,
+	"useObjectSpaceNormalMap": false,
+	"useParallax": false,
+	"useParallaxOcclusion": false,
+	"parallaxScaleBias": 0.05,
+	"roughness": 0,
+	"indexOfRefraction": 0.98,
+	"invertRefractionY": true,
+	"alphaCutOff": 0.4,
+	"useLightmapAsShadowmap": false,
+	"useReflectionFresnelFromSpecular": false,
+	"useGlossinessFromSpecularMapAlpha": false,
+	"maxSimultaneousLights": 4,
+	"invertNormalMapX": false,
+	"invertNormalMapY": false,
+	"twoSidedLighting": false,
+	"id": "86f5ea0c-5348-4d72-83b5-9011b0082efa",
+	"name": "standard_male_figure.deda1a",
+	"checkReadyOnEveryCall": false,
+	"checkReadyOnlyOnce": false,
+	"state": "",
+	"alpha": 1,
+	"backFaceCulling": true,
+	"sideOrientation": 1,
+	"alphaMode": 2,
+	"_needDepthPrePass": false,
+	"disableDepthWrite": false,
+	"disableColorWrite": false,
+	"forceDepthWrite": false,
+	"depthFunction": 0,
+	"separateCullingPass": false,
+	"fogEnabled": true,
+	"pointSize": 1,
+	"zOffset": 0,
+	"pointsCloud": false,
+	"fillMode": 0,
+	"metadata": {
+		"originalSourceFile": {
+			"id": "standard_male_figure.deda1a",
+			"name": "standard_male_figure.deda1a",
+			"sceneFileName": "standard-male-figure.babylon"
+		}
+	}
+}
